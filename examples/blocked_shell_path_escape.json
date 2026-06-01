@@ -1,0 +1,11 @@
+{
+    "run_id": "demo-blocked-shell-path-escape-001",
+    "tool": "shell",
+    "args": {
+        "command": "cat ../outside.txt"
+    },
+    "metadata": {
+        "source": "example",
+        "description": "Attempt to read outside the workspace through an allowlisted shell command"
+    }
+}

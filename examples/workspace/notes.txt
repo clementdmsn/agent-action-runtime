@@ -1,0 +1,5 @@
+Agent runtime demo notes
+
+- This file lives inside examples/workspace.
+- safe_read.json reads this file.
+- safe_list_dir.json lists this directory.
