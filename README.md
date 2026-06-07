@@ -173,10 +173,21 @@ src/agent_action_runtime/
   contracts.py
   context.py
   errors.py
+  executors.py
   policy.py
   replay.py
   runtime.py
   sandbox.py
+  tracing.py
+  validation.py
+  filesystem/
+    operations.py
+    sandbox.py
+    sensitivity.py
+  shell/
+    parser.py
+    policy.py
+    runner.py
 
 tests/
   test_cli.py
